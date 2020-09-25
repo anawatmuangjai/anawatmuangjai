@@ -1,4 +1,4 @@
-## Hi there, I'm Anawat 
+## Hi there, I'm Anawat, a Software Developer.
 
 - 🔭 I’m currently working on Cloud Microservice
 - 🌱 I’m currently learning React!
@@ -9,26 +9,52 @@
 
 ### Programming Languages
 
-- C#
-- Go
-- JavaScript
+- Backend
+
+<br />
+
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
+
+<br />
+
+- Frontend
+
+<br />
+
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+
+---
+
+### CI/CD
+
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azuredevops.svg" />
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubactions.svg" />
+
+---
+
+### Cloud
+
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
 
 ---
 
 ### Tools
 
-- VS Code / Visual Studio
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+
+---
 
 ### Connect with me
 
-<!--
-**anawatmuangjai/anawatmuangjai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/anawatse/">
+  <img align="left" alt="Anawat | LinkdeIn" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/anawatmuangjai">
+  <img align="left" alt="Anawat | Twitter" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/anawat.mu/">
+  <img align="left" alt="Anawat | Instagram" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
