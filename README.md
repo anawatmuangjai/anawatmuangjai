@@ -3,22 +3,17 @@
 - 🔭 I’m currently working on Cloud Microservice
 - 🌱 I’m currently learning React!
 - 👯 I’m looking to collaborate on Unity Game Development.
-- 🤔 I’m looking for help with Kubernetes
 
 ### Programming Languages
 
 <table>
    <tr>
-    <td colspan="3" align="center">Backend</td>
-    <td colspan="3" align="center">Frontend</td>
+    <td colspan="1" align="center">Backend</td>
+    <td colspan="1" align="center">Frontend</td>
   </tr>
   <tr>
     <td align="center" valign="top"><img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"></td>
-    <td align="center" valign="top"><img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg"></td>
-    <td align="center" valign="top"><img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg"></td>
     <td align="center" valign="top"><img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"></td>
-    <td align="center" valign="top"><img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg"></td>
-    <td align="center" valign="top"><img width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"></td>
   </tr>
  </table>
 
