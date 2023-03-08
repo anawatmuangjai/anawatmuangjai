@@ -45,7 +45,6 @@
   <b><i>Let's connect with me! </i></b><br><br>
   <a href="https://www.linkedin.com/in/anawatse"><img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>   
   <a href="https://www.facebook.com/anawatmuangjai"><img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"></a>   
-  <a href="https://twitter.com/anawatmuangjai"><img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>   
   <a href="https://www.instagram.com/anawat.mu"><img align="center" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 </p>
 
