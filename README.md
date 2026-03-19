@@ -7,16 +7,16 @@
   <p>Passionate about building scalable Cloud Microservices and modern web applications.</p>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-anawatmuangjai.github.io-blue?style=flat-square&logo=github)](https://anawatmuangjai.github.io)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-anawatmuangjai-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/anawatmuangjai)
-  [![Email](https://img.shields.io/badge/Email-hello@anawatmuangjai.dev-D14836?style=flat-square&logo=gmail)](mailto:hello@anawatmuangjai.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-anawatmuangjai-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/anawatse)
+  [![Email](https://img.shields.io/badge/Email-hello@anawatmuangjai.dev-D14836?style=flat-square&logo=gmail)](mailto:anawat.muangjai@gmail.com)
 </div>
 
 ---
 
 ## 🙋 About Me
 
-- 🔭 I'm currently working on **Cloud Microservices**
-- 🌱 I'm currently learning **React & Modern Frontend Architecture**
+- 🔭 I'm currently working on **Generative AI, Agentic AI Agent**
+- 🌱 I'm currently learning **LLM, Prompt Engineering, RAG**
 - 👯 I'm looking to collaborate on **Unity Game Development**
 - 💬 Ask me about **.NET Core, C#, React, TypeScript, Microservices**
 - 📍 Based in **Bangkok, Thailand**
